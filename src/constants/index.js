@@ -248,7 +248,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://www.instagram.com/p/C1zrupNhmYD/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
     },
   ];
   
